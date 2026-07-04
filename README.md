@@ -28,7 +28,7 @@ La combinación ganadora que logró el 82% de Recall fue:
 
 ## Factores de Riesgo Más Críticos (Feature Importance)
 
-![Top 10 Características](importancias.png)
+![Top 10 Características](Importancias.png)
 
 El modelo de Bosque Aleatorio nos permite auditar su comportamiento. Tras analizar el peso de las decisiones de los 200 árboles combinados, los 3 factores que acumulan más de la mitad de la relevancia absoluta para que un cliente se marche son:
 
